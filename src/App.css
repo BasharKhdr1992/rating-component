@@ -35,7 +35,7 @@
   background-color: hsl(213, 19%, 18%);
   border-radius: 30px;
   display: flex;
-  box-shadow: 0px 1px 2px hsl(216, 12%, 54%);
+  box-shadow: 0px 2px 4px hsl(216, 12%, 8%);
   font-weight: 700;
   color: hsl(217, 12%, 63%);
   justify-content: center;
@@ -98,9 +98,11 @@
 .thank-you-card .rating-summary {
   text-align: center;
   margin-bottom: 20px;
-  padding: 8px;
+  padding: 12px;
+  font-weight: 700;
+  font-size: 15px;
   border-radius: 12px;
-  box-shadow: 0px 1px 2px hsl(217, 12%, 63%);
+  box-shadow: 0px 2px 4px hsl(216, 12%, 8%);
   box-sizing: border-box;
   color: hsl(25, 97%, 53%);
 }
